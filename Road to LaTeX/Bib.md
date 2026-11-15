@@ -1,3 +1,6 @@
+## Tài liệu tham khảo: 
+
+### Học:
 
 ```latex
 @misc{overleaf,
@@ -24,6 +27,7 @@
   url = {http://www2.fizik.usm.my/tlyoon/Downloads/LateX2018/latex2018.pdf},
   note = {Available at: \url{http://www2.fizik.usm.my/tlyoon/Downloads/LateX2018/latex2018.pdf}}
 }
+
 @misc{pandaqi_latex,
   author       = {Pandaqi},
   title        = {LaTeX Tutorial},
@@ -37,10 +41,25 @@ Các bài học của chú Long Nguyen ở PIMA: https://drive.google.com/file/d
 
 Bài học ở toán học của Overleaf:  https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath  
 
-> "The `amsmath` package provides a handful of options for displaying equations. You can choose the layout that better suits your document, even if the equations are really long, or if you have to include several equations in the same line."
+---
+
+### Cộng đồng LaTeX:
 
 Một số cộng đồng hỏi liên quan về LaTeX tiếng Anh: 
 + https://tex.stackexchange.com/questions 
 + https://stackoverflow.com/questions/tagged/latex?tab=Newest 
+
+---
+
+### Câu hỏi: 
+
+
+\[1]: https://latexguide.org/frequently-asked-questions/
+
+\[2]: https://texfaq.org/
+
+---
+
+### Lỗi khi viết LaTeX: 
 
 Những lỗi thường gặp trong LaTeX: https://trybibby.com/blog/20-common-latex-errors-how-to-fix-2026
