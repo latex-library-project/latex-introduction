@@ -41,6 +41,11 @@ Các bài học của chú Long Nguyen ở PIMA: https://drive.google.com/file/d
 
 Bài học ở toán học của Overleaf:  https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath  
 
+Tài liệu được viết bằng tiếng Việt:  
+
+1. [Sổ tay dùng LaTeX - Nguyễn Hữu Điển](https://vietex.blog.fc2.com/blog-entry-516.html)
+2. [ LaTeX Thực hành - Nguyễn Hữu Điển](https://vietex.blog.fc2.com/blog-entry-517.html) 
+
 ---
 
 ### Cộng đồng LaTeX:
