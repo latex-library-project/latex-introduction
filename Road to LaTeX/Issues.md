@@ -2,24 +2,9 @@
 
 
 ## 06/07/2026: 
-
-+ Cách viết ghi chú ở các đoạn mã dài: https://github.com/Namlete102/LaTeX-Library-project/issues/2
   
 + Cách viết toán học: https://sites.google.com/view/duongminhduc/trang-ch%E1%BB%A7/ti%E1%BA%BFng-anh-trong-to%C3%A1n?authuser=0
 
-![](LaTeX-Library-project-v1.0.0/images/img6.13.jpg)
-(lần lượt viết cho giải tích và định lý Gauss - Wantzel) 
-
-![](LaTeX-Library-project-v1.0.0/images/img6.14.jpg)
-(. . .)
-
-![](LaTeX-Library-project-v1.0.0/images/img6.15.jpg)
-(viết phần ma trận và dãy số, chuỗi)  
-
-
-## 13/07/2026: 
-
-+ Bổ sung bài học đường kẻ ngang trong LaTeX 
 
 Lỗi: 
 
