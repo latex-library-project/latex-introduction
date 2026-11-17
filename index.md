@@ -12,3 +12,19 @@ Còn các lớp tài liệu nâng cao nhằm bổ sung những khuyết điểm 
 Bản thân tôi hay thậm chí cả người học, nên quan tâm và đầu tư phát triển nhiều hơn vào kĩ năng quan trọng để tạo ra nội dung chất lượng, thú vị, cần thiết hơn là đầu tư sớm vào kĩ năng tin học này, dù chúng cũng rất quan trọng. 
 
 Tùy vào cách học của mỗi người mà có những quan điểm riêng về vấn đề này. 
+
+Ta sẽ học LaTeX vì mục đích gì ? 
+
+Cho vui, tất nhiên rồi anh bạn. 
+
+Đùa thoi, bạn học latex để phục vụ cho một số công việc tùy vào mỗi cá nhân mà học để sử dụng chúng cho: 
+
++ Viết bài ngắn
++ Viết tài liệu 
++ Viết báo cáo 
++ Luận văn (cử nhân, thạc sĩ, tiến sĩ)
++ CV 
++ Viết sách 
++ Tạp chí (tùy vào noi bên xuất bản)
++ Soạn đề thi cử 
+..vv..
